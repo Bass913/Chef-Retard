@@ -21,7 +21,7 @@
             <img
               alt="Pâtes à la sauce forestière"
               class="object-cover w-full h-52 dark:bg-gray-500"
-              src="img/pates-forestiere.webp"
+              src="/img/pates-forestiere.webp"
             />
           </a>
           <div class="flex flex-col flex-1 p-6">
