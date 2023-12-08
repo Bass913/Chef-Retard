@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useHead({
-  title: "Chef Retard : Cuisinez avec Saveur, Même en Mode Express !",
+  title: "Chef Retard : Gourmandise en urgence, cuisine avec excellence !",
 
   meta: [
     {
