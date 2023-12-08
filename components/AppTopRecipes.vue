@@ -19,9 +19,9 @@
             aria-label="Te nulla oportere reprimique his dolorum"
           >
             <img
-              alt=""
+              alt="Pâtes à la sauce forestière"
               class="object-cover w-full h-52 dark:bg-gray-500"
-              src="https://source.unsplash.com/200x200/?fashion?1"
+              src="img/pates-forestiere.webp"
             />
           </a>
           <div class="flex flex-col flex-1 p-6">
@@ -54,9 +54,9 @@
             aria-label="Te nulla oportere reprimique his dolorum"
           >
             <img
-              alt=""
+              alt="Gâteau aux pommes"
               class="object-cover w-full h-52 dark:bg-gray-500"
-              src="https://source.unsplash.com/200x200/?fashion?2"
+              src="/img/gateau-pomme.webp"
             />
           </a>
           <div class="flex flex-col flex-1 p-6">
@@ -89,9 +89,9 @@
             aria-label="Te nulla oportere reprimique his dolorum"
           >
             <img
-              alt=""
+              alt="Pasta salmone"
               class="object-cover w-full h-52 dark:bg-gray-500"
-              src="https://source.unsplash.com/200x200/?fashion?3"
+              src="/img/pates-saumon.webp"
             />
           </a>
           <div class="flex flex-col flex-1 p-6">
@@ -126,7 +126,7 @@
             <img
               alt=""
               class="object-cover w-full h-52 dark:bg-gray-500"
-              src="https://source.unsplash.com/200x200/?fashion?4"
+              src="/img/churros-sucre.webp"
             />
           </a>
           <div class="flex flex-col flex-1 p-6">

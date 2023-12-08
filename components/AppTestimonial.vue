@@ -3,7 +3,7 @@
     <div
       class="container flex flex-col items-center mx-auto mb-12 md:p-10 md:px-12"
     >
-      <h2 class="p-4 text-4xl font-semibold leadi text-center">
+      <h2 class="text-4xl font-semibold leadi text-center">
         Ce que nos visiteurs disent de nous
       </h2>
     </div>
