@@ -4,7 +4,7 @@
       class="container grid grid-cols-2 mx-auto gap-x-3 gap-y-8 sm:grid-cols-3 md:grid-cols-4"
     >
       <div class="flex flex-col space-y-4">
-        <h2 class="font-medium">Getting started</h2>
+        <h2 class="font-medium">Qui sommes nous ?</h2>
         <div class="flex flex-col space-y-2 text-sm dark:text-gray-400">
           <a rel="noopener noreferrer" href="#">Installation</a>
           <a rel="noopener noreferrer" href="#">Release Notes</a>
